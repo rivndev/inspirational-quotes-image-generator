@@ -1,6 +1,6 @@
 # Inspirational Quotes Image Generator
 
-**More information about this project can be found in [this article on my website](https://rivenintech.com/projects/inspirational-quotes-image-generator-python).**
+**More information about this project can be found in [this article on my website](https://rivn.dev/projects/inspirational-quotes-image-generator-python).**
 
 Generate images with inspirational quotes like these:
 

@@ -2,8 +2,8 @@
 name = "inspirational-quotes-image-generator"
 version = "1.0.0"
 description = ""
-authors = ["RiveN <riven@rivenintech.com>"]
-homepage = "https://rivenintech.com/projects/inspirational-quotes-image-generator-python"
+authors = ["RiveN <git@rivn.dev>"]
+homepage = "https://rivn.dev/projects/inspirational-quotes-image-generator-python"
 readme = "README.md"
 
 [tool.poetry.dependencies]
